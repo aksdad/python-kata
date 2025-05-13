@@ -1,0 +1,28 @@
+[dsa]
+# ArrayList
+# BFSGraphMatrix
+# BTBFS
+# BTInOrder
+# BTPostOrder
+# BTPreOrder
+# BinarySearchList
+# BubbleSort
+# CompareBinaryTrees
+# DFSGraphList
+# DFSOnBST
+# DoublyLinkedList
+# LRU
+# LinearSearchList
+# Map
+# MazeSolver
+# MinHeap
+# Queue
+QuickSort = true
+# SinglyLinkedList
+# Stack
+# Trie
+# TwoCrystalBalls
+
+[QuickSort.signature]
+method_name = "sortArray"
+params = ["nums"]
