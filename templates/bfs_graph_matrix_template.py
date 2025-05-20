@@ -1,8 +1,10 @@
+from __future__ import annotations
+from typing import List
 import unittest
 
 class Solution:
     # graph = weightedadjacencymatrix = [int][int]
-    def bfs(self, graph, source, target):
+    def bfs(self, graph: List[List[int]], source: int, target: int) -> List[int]:
         return []
 
 class TestBFS(unittest.TestCase):
